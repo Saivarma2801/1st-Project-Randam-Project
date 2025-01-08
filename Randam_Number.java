@@ -1,6 +1,5 @@
 package randam_number;
 
-
 	import java.util.Scanner;
 	import java.util.Random;
 	
